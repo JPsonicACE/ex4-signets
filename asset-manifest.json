@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae2e1aa6.chunk.css",
-    "main.js": "/static/js/main.275056f1.chunk.js",
-    "main.js.map": "/static/js/main.275056f1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40489f29.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40489f29.js.map",
-    "static/css/2.b39b49d3.chunk.css": "/static/css/2.b39b49d3.chunk.css",
-    "static/js/2.7bac8105.chunk.js": "/static/js/2.7bac8105.chunk.js",
-    "static/js/2.7bac8105.chunk.js.map": "/static/js/2.7bac8105.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.b39b49d3.chunk.css.map": "/static/css/2.b39b49d3.chunk.css.map",
-    "static/css/main.ae2e1aa6.chunk.css.map": "/static/css/main.ae2e1aa6.chunk.css.map",
-    "static/js/2.7bac8105.chunk.js.LICENSE.txt": "/static/js/2.7bac8105.chunk.js.LICENSE.txt",
-    "static/media/couverture.2dc9ece9.webp": "/static/media/couverture.2dc9ece9.webp"
+    "main.css": "//JPsonicACE.github.io/ex4-signets/static/css/main.ae2e1aa6.chunk.css",
+    "main.js": "//JPsonicACE.github.io/ex4-signets/static/js/main.275056f1.chunk.js",
+    "main.js.map": "//JPsonicACE.github.io/ex4-signets/static/js/main.275056f1.chunk.js.map",
+    "runtime-main.js": "//JPsonicACE.github.io/ex4-signets/static/js/runtime-main.7dfb5c61.js",
+    "runtime-main.js.map": "//JPsonicACE.github.io/ex4-signets/static/js/runtime-main.7dfb5c61.js.map",
+    "static/css/2.b39b49d3.chunk.css": "//JPsonicACE.github.io/ex4-signets/static/css/2.b39b49d3.chunk.css",
+    "static/js/2.128dfe24.chunk.js": "//JPsonicACE.github.io/ex4-signets/static/js/2.128dfe24.chunk.js",
+    "static/js/2.128dfe24.chunk.js.map": "//JPsonicACE.github.io/ex4-signets/static/js/2.128dfe24.chunk.js.map",
+    "index.html": "//JPsonicACE.github.io/ex4-signets/index.html",
+    "static/css/2.b39b49d3.chunk.css.map": "//JPsonicACE.github.io/ex4-signets/static/css/2.b39b49d3.chunk.css.map",
+    "static/css/main.ae2e1aa6.chunk.css.map": "//JPsonicACE.github.io/ex4-signets/static/css/main.ae2e1aa6.chunk.css.map",
+    "static/js/2.128dfe24.chunk.js.LICENSE.txt": "//JPsonicACE.github.io/ex4-signets/static/js/2.128dfe24.chunk.js.LICENSE.txt",
+    "static/media/couverture.2dc9ece9.webp": "//JPsonicACE.github.io/ex4-signets/static/media/couverture.2dc9ece9.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.40489f29.js",
+    "static/js/runtime-main.7dfb5c61.js",
     "static/css/2.b39b49d3.chunk.css",
-    "static/js/2.7bac8105.chunk.js",
+    "static/js/2.128dfe24.chunk.js",
     "static/css/main.ae2e1aa6.chunk.css",
     "static/js/main.275056f1.chunk.js"
   ]
